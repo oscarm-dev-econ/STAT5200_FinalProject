@@ -2,6 +2,8 @@
 
 This folder contains four Python scripts used to replicate results from Thomas Pearson (2024), *"The Impact of Immigration Status on Crime Reporting: Evidence from DACA,"* published in the Journal of Urban Economics.
 
+Original paper DOI: 10.1016/j.jue.2024.103670
+
 ### stage1Replication.py — Baseline Difference-in-Differences (Table 2)
 
 Reads the National Crime Victimization Survey (NCVS) files from 2005–2017 and checks the IPUMS American Community Survey (ACS) sample. Constructs the baseline incident-level dataset and estimates all six difference-in-differences specifications in Table 2.
